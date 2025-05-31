@@ -1,0 +1,174 @@
+{
+  "employees": [
+    {
+      "id": "858202094333",
+      "name": "Anika Järvi",
+      "title": "Frontend Developer",
+      "salary": 5670,
+      "phone": "040-6977190",
+      "email": "anika.järvi@example.com",
+      "animal": "Otter",
+      "startDate": "2016-01-24",
+      "location": "Vantaa",
+      "department": "Design",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "288670317936",
+      "name": "Timo Lehto",
+      "title": "Scrum Master",
+      "salary": 5370,
+      "phone": "040-8143652",
+      "email": "timo.lehto@example.com",
+      "animal": "Koala",
+      "startDate": "2018-10-15",
+      "location": "Espoo",
+      "department": "HR",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Team Leadership"
+      ]
+    },
+    {
+      "id": "100212646529",
+      "name": "Lumi Laine",
+      "title": "Backend Developer",
+      "salary": 5924,
+      "phone": "040-1472059",
+      "email": "lumi.laine@example.com",
+      "animal": "Otter",
+      "startDate": "2014-08-30",
+      "location": "Oulu",
+      "department": "Marketing",
+      "skills": [
+        "Python",
+        "Django",
+        "REST APIs"
+      ]
+    },
+    {
+      "id": "298376502621",
+      "name": "Jasper Ahonen",
+      "title": "Frontend Developer",
+      "salary": 6642,
+      "phone": "040-8303822",
+      "email": "jasper.ahonen@example.com",
+      "animal": "Koala",
+      "startDate": "2012-07-24",
+      "location": "Vantaa",
+      "department": "Marketing",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "502328104797",
+      "name": "Mira Virtanen",
+      "title": "Backend Developer",
+      "salary": 5474,
+      "phone": "040-7701932",
+      "email": "mira.virtanen@example.com",
+      "animal": "Otter",
+      "startDate": "2011-10-14",
+      "location": "Espoo",
+      "department": "Engineering",
+      "skills": [
+        "Python",
+        "Django",
+        "REST APIs"
+      ]
+    },
+    {
+      "id": "633617319591",
+      "name": "Kian Mäkinen",
+      "title": "Frontend Developer",
+      "salary": 5400,
+      "phone": "040-4873796",
+      "email": "kian.mäkinen@example.com",
+      "animal": "Rabbit",
+      "startDate": "2019-03-26",
+      "location": "Espoo",
+      "department": "Marketing",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "126924113869",
+      "name": "Elio Niemi",
+      "title": "Frontend Developer",
+      "salary": 6494,
+      "phone": "040-7313764",
+      "email": "elio.niemi@example.com",
+      "animal": "Tiger",
+      "startDate": "2018-10-26",
+      "location": "Oulu",
+      "department": "Engineering",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "172244346306",
+      "name": "Nora Salmi",
+      "title": "Frontend Developer",
+      "salary": 4355,
+      "phone": "040-4729463",
+      "email": "nora.salmi@example.com",
+      "animal": "Falcon",
+      "startDate": "2021-03-13",
+      "location": "Vantaa",
+      "department": "Design",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "529703327730",
+      "name": "Inka Korhonen",
+      "title": "Frontend Developer",
+      "salary": 4875,
+      "phone": "040-4077176",
+      "email": "inka.korhonen@example.com",
+      "animal": "Otter",
+      "startDate": "2017-07-30",
+      "location": "Espoo",
+      "department": "Engineering",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "id": "325186194254",
+      "name": "Aarav Heikkilä",
+      "title": "Scrum Master",
+      "salary": 6000,
+      "phone": "040-6106812",
+      "email": "aarav.heikkilä@example.com",
+      "animal": "Otter",
+      "startDate": "2015-12-29",
+      "location": "Espoo",
+      "department": "Data Science",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Team Leadership"
+      ]
+    }
+  ]
+}
