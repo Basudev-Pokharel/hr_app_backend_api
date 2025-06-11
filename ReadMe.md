@@ -11,7 +11,7 @@ This is the **backend** for the HR Management App, built using **JSON Server** a
 ## 🌐 Live Demo
 
 Backend API: [Render JSON Server](https://hr-app-backend-api-3gc8.onrender.com/employees)  
-Frontend: [Load Frontend HR](https://react-hr-app-git-development-basudev-pokharels-projects.vercel.app/)
+Frontend: [Load Frontend HR](https://react-hr-app-ashen.vercel.app/)
 
 ---
 
