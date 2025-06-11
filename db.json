@@ -11,11 +11,7 @@
       "startDate": "2016-01-24",
       "location": "Vantaa",
       "department": "Design",
-      "skills": [
-        "React",
-        "JavaScript",
-        "TailwindCSS"
-      ]
+      "skills": ["React", "JavaScript", "TailwindCSS"]
     },
     {
       "id": "288670317936",
@@ -28,11 +24,7 @@
       "startDate": "2018-10-15",
       "location": "Espoo",
       "department": "HR",
-      "skills": [
-        "Agile",
-        "Scrum",
-        "Team Leadership"
-      ]
+      "skills": ["Agile", "Scrum", "Team Leadership"]
     },
     {
       "id": "100212646529",
@@ -45,11 +37,7 @@
       "startDate": "2014-08-30",
       "location": "Oulu",
       "department": "Marketing",
-      "skills": [
-        "Python",
-        "Django",
-        "REST APIs"
-      ]
+      "skills": ["Python", "Django", "REST APIs"]
     },
     {
       "id": "298376502621",
@@ -62,11 +50,7 @@
       "startDate": "2012-07-24",
       "location": "Vantaa",
       "department": "Marketing",
-      "skills": [
-        "React",
-        "JavaScript",
-        "TailwindCSS"
-      ]
+      "skills": ["React", "JavaScript", "TailwindCSS"]
     },
     {
       "id": "502328104797",
@@ -79,11 +63,7 @@
       "startDate": "2011-10-14",
       "location": "Espoo",
       "department": "Engineering",
-      "skills": [
-        "Python",
-        "Django",
-        "REST APIs"
-      ]
+      "skills": ["Python", "Django", "REST APIs"]
     },
     {
       "id": "633617319591",
@@ -96,11 +76,7 @@
       "startDate": "2019-03-26",
       "location": "Espoo",
       "department": "Marketing",
-      "skills": [
-        "React",
-        "JavaScript",
-        "TailwindCSS"
-      ]
+      "skills": ["React", "JavaScript", "TailwindCSS"]
     },
     {
       "id": "126924113869",
@@ -113,11 +89,7 @@
       "startDate": "2018-10-26",
       "location": "Oulu",
       "department": "Engineering",
-      "skills": [
-        "React",
-        "JavaScript",
-        "TailwindCSS"
-      ]
+      "skills": ["React", "JavaScript", "TailwindCSS"]
     },
     {
       "id": "172244346306",
@@ -130,11 +102,7 @@
       "startDate": "2021-03-13",
       "location": "Vantaa",
       "department": "Design",
-      "skills": [
-        "React",
-        "JavaScript",
-        "TailwindCSS"
-      ]
+      "skills": ["React", "JavaScript", "TailwindCSS"]
     },
     {
       "id": "529703327730",
@@ -147,11 +115,7 @@
       "startDate": "2017-07-30",
       "location": "Espoo",
       "department": "Engineering",
-      "skills": [
-        "React",
-        "JavaScript",
-        "TailwindCSS"
-      ]
+      "skills": ["React", "JavaScript", "TailwindCSS"]
     },
     {
       "id": "325186194254",
@@ -164,11 +128,7 @@
       "startDate": "2015-12-29",
       "location": "Espoo",
       "department": "Data Science",
-      "skills": [
-        "Agile",
-        "Scrum",
-        "Team Leadership"
-      ]
+      "skills": ["Agile", "Scrum", "Team Leadership"]
     }
   ]
 }
